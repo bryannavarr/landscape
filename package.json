@@ -1,0 +1,17 @@
+{
+  "name": "rinconlandscape",
+  "version": "1.0.0",
+  "description": "Website for Enrique Rincon's Landscape business",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server"
+  },
+  "author": "Bryan Navarrete",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.1.1",
+    "webpack-dev-server": "^3.7.2"
+  }
+}
